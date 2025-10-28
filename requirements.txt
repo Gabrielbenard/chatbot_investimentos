@@ -1,0 +1,39 @@
+# Python 3.11
+
+# Núcleo do LangChain e LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langgraph==0.2.35
+
+# Modelos e conectores externos
+langchain-google-genai==2.0.4
+langchainhub==0.1.19
+
+# Ferramentas adicionais
+duckduckgo-search==6.3.2
+python-dotenv==1.0.1
+
+# Vetorização e embeddings
+faiss-cpu==1.8.0.post1
+sentence-transformers==3.0.1
+huggingface-hub==0.25.1
+
+# Manipulação de PDFs
+PyMuPDF==1.24.10
+
+# Suporte numérico
+numpy==1.26.4
+
+# IPython (para exibição de imagens e notebooks)
+ipython==8.26.0
+Pillow==10.3.0
+
+# Tipagem e utilitários
+typing-extensions==4.12.2
+
+#
+gradio
+ddgs
+langchain-openai
